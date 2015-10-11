@@ -1,4 +1,4 @@
-#Plot2 - Frequency x Global Active Power
+#Plot3 - Frequency x Global Active Power
 
 #Load and Format Data
 col_types = c('character', 'character', 'numeric','numeric', 'numeric', 'numeric','numeric', 'numeric', 'numeric')
